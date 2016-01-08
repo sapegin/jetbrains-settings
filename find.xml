@@ -1,0 +1,20 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/sapegin/izumi/izumi-app/app/assets/javascripts/text_set_edit/_validation.js'" />
+    <option name="defaultScopeName" value="File '/Users/sapegin/izumi/izumi-app/app/assets/javascripts/text_set_edit/_validation.js'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/sapegin/izumi/izumi-app/app/assets/javascripts/text_set_edit/_validation.js'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.rb</mask>
+      <mask>*.jsx,*.js</mask>
+    </recentFileMasks>
+  </component>
+</application>
