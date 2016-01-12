@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Webpack dev server" description="Run Webpack dev server" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="npm" />
+      <option name="PARAMETERS" value="run start-local" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
