@@ -2996,6 +2996,18 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine70/ruby_stubs/1544774165/-1713624930/gems/peek-rblineprof-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="pg (v0.18.4, Remote-rvm:ruby-2.2.2-p95 [concord]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine70/ruby_stubs/1939004277/1122155326/gems/pg-0.18.4/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine70/ruby_stubs/1939004277/1122155326/gems/pg-0.18.4/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine70/ruby_stubs/1939004277/1122155326/gems/pg-0.18.4/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine70/ruby_stubs/1939004277/1122155326/gems/pg-0.18.4/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine70/ruby_stubs/1939004277/1122155326/gems/pg-0.18.4/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine70/ruby_stubs/1939004277/1122155326/gems/pg-0.18.4/sample" />
+      </SOURCES>
+    </library>
     <library name="polyamorous (v1.2.0, Remote-rvm:ruby-2.2.2-p95 [concord]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine70/ruby_stubs/1939004277/1122155326/gems/polyamorous-1.2.0/lib" />
