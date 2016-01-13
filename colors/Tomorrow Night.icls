@@ -290,7 +290,6 @@
         <option name="FOREGROUND" value="c5c8c6" />
       </value>
     </option>
-    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cc6666" />
@@ -1329,8 +1328,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PUPPET_HEREDOC_BODY" baseAttributes="TEXT" />
-    <option name="PUPPET_HEREDOC_TAGS" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="81a2be" />
